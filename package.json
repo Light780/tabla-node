@@ -1,0 +1,14 @@
+{
+  "name": "bases-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "watch": "node --watch index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.1"
+  }
+}
